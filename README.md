@@ -1,29 +1,66 @@
-# UA Problems
-
-Repositorio con soluciones a problemas de maratones de la **Universidad de la Amazonia**.
-
+# 🏆 UA Problems
+ 
+> Soluciones a problemas de maratones de programación de la **Universidad de la Amazonia**
+ 
+---
+ 
+## 📌 ¿De qué trata este repositorio?
+ 
+Colección de soluciones a problemas competitivos desarrollados en las maratones internas de la UA. Cada carpeta contiene el enunciado y la solución del problema correspondiente.
+ 
+---
+ 
+## 📂 Problemas
+ 
+| # | Problema |
+|---|----------|
+| 01 | [Afloja](./afloja) |
+| 02 | [Atajo](./Atajo) |
+| 03 | [Banana](./Banana) | — |
+| 04 | [Bitwise](./bitwise) | — |
+| 05 | [Buscando](./buscando) | — |
+| 06 | [Capicua](./capicua) | — |
+| 07 | [Cartman](./Cartman) | — |
+| 08 | [Decora](./Decora) | — |
+| 09 | [Día](./dia) | — |
+| 10 | [Diagonal](./diagonal) | — |
+| 11 | [Elio](./elio) | — |
+| 12 | [Error](./Error) | — |
+| 13 | [Fast](./fast) | — |
+| 14 | [Finalistas](./Finalistas) | — |
+| 15 | [Fun](./fun) | — |
+| 16 | [Generando](./Generando) | — |
+| 17 | [Helados](./Helados) | — |
+| 18 | [Hilos](./hilos) | — |
+| 19 | [Impresoras](./impresoras) | — |
+| 20 | [LED](./led) | — |
+| 21 | [Message](./message) | — |
+| 22 | [Newspaper](./newspaper) | — |
+| 23 | [Palíndromo](./palindromo) | — |
+| 24 | [Pangram](./pangram) | — |
+| 25 | [UEFA](./uefa) | — |
+| 26 | [Watson](./watson) | — |
+| 27 | [Zmija](./zmija) | — |
+ 
+ 
+---
+ 
+## 🚀 ¿Cómo contribuir?
+ 
+1. Haz un **fork** del repositorio
+2. Crea una rama: `git checkout -b mi-solucion`
+3. Sube tu solución y haz un **pull request**
+4. ¡O simplemente abre un **issue** con dudas o sugerencias!
+ 
+---
+ 
 ## 🎯 Contacto
-
-Si tienes dudas o sugerencias, ¡haz un issue o contribuye con una solución! 🚀
-
-## 📂 Tabla de Contenido
-- [Afloja](https://github.com/Jaiderbr/UA-problems/blob/main/afloja/afloja.cpp)
-- [Buscando](https://github.com/Jaiderbr/UA-problems/blob/main/buscando/buscando.cpp)
-- [Capicua](https://github.com/Jaiderbr/UA-problems/blob/main/capicua/capicua.cpp)
-- [Día](https://github.com/Jaiderbr/UA-problems/blob/main/dia/dia.cpp)
-- [Fast](https://github.com/Jaiderbr/UA-problems/blob/main/fast/fast.cpp)
-- [Fun](https://github.com/Jaiderbr/UA-problems/blob/main/fun/fun.cpp)
-- [Hilos](https://github.com/Jaiderbr/UA-problems/blob/main/hilos/hilos.cpp)
-- [Impresoras](https://github.com/Jaiderbr/UA-problems/blob/main/impresoras/impresoras.cpp)
-- [LED](https://github.com/Jaiderbr/UA-problems/blob/main/led/led.cpp)
-- [Newspaper](https://github.com/Jaiderbr/UA-problems/blob/main/newspaper/newspaper.cpp)
-- [Palíndromo](https://github.com/Jaiderbr/UA-problems/blob/main/palindromo/palindromo.cpp)
-- [Pangram](https://github.com/Jaiderbr/UA-problems/blob/main/pangram/pangram.cpp)
-- [UEFA](https://github.com/Jaiderbr/UA-problems/blob/main/uefa/uefa.cpp)
-- [Zmija](https://github.com/Jaiderbr/UA-problems/blob/main/zmija/zmija.cpp)
-
-
-
-
-
-
+ 
+¿Tienes dudas o quieres aportar? ¡Bienvenido! Abre un issue o contribuye directamente. 🚀
+ 
+---
+ 
+<p align="center">
+  Hecho con 💙 en la Universidad de la Amazonia
+</p>
+ 
